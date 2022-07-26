@@ -1,0 +1,18 @@
+Job Responsibilities:
+Collaboration with Web Developers in the team and UX designers on front end application development
+Understand and Work on business goals, user needs and technical constraints
+Development of cutting-edge web applications that look and perform superbly across all platforms
+Enhancing the performance and reliability of our current web-based application features
+Concept exploration and prototyping UI designs with the latest technologies
+Team motivation
+
+Job Skills Required:
+1+ years of demonstrable Web development experience on industry projects
+Advanced level of JavaScript (AJAX, JavaScript Modules, angular, jQuery, d3, echarts etc.)
+Hands-on experience with PHP and Python
+Experience with Web Services protocols such as JSON, and REST API
+Hands-on working experience with Angular JS, Ext JS or similar frameworks
+Working experience with CSS and HTML (Object Oriented CSS, CSS3, HTML5, ZEN)
+Web Application framework experience like Symfony and Code Igniter is an asset
+Strong oral and written communication skills, good teamwork player
+Highly detail oriented, self-motivated, self-managed and organized
